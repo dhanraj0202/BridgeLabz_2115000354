@@ -1,0 +1,5 @@
+INFO: System started successfully.
+ WARNING: Low disk space detected. 
+ERROR: Unable to connect to the database. 
+Debug: User login successful. 
+error: file not found
